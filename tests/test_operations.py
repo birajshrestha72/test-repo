@@ -18,3 +18,7 @@ def test_multiple():
 
 def test_power():
     assert power(2, 2) == 4
+
+
+def test_power1():
+    assert power(2, 2) == 4
