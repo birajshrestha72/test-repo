@@ -13,7 +13,3 @@ def multiple(a, b):
 
 def power(a, b):
     return a ** b
-
-
-def power1(a, b):
-    return a ** b
